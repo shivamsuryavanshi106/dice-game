@@ -18,7 +18,7 @@ This is a simple console-based game where you roll a dice and try to get the hig
     
 ## visite website:  
 
-https://girish345.github.io/Dice-Game/
+
 
 
 
