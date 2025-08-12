@@ -15,13 +15,6 @@ This is a simple console-based game where you roll a dice and try to get the hig
 ```bash
  node index.js
 ```
-    
-## visite website:  
-
-
-
-
-
 
 # How to Use
 
@@ -30,9 +23,7 @@ Once the game starts, you will be prompted to roll the dice by pressing the Ente
 The goal of the game is to reach a score of 100 or more. Once you reach that score, the game will end and you will be declared the winner.
 
 
-## Authors
 
-- [@Girish345](https://www.github.com/Girish345)
 
 
 ## Screenshots
